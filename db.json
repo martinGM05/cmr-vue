@@ -1,0 +1,34 @@
+{
+  "clientes": [
+    {
+      "nombre": "Mari",
+      "apellido": "Pache",
+      "email": "pache@gmail.com",
+      "telefono": "231-123-1222",
+      "empresa": "Hadad",
+      "puesto": "Calidad",
+      "estado": true,
+      "id": 3
+    },
+    {
+      "nombre": "Martin",
+      "apellido": "Gonzalez Miranda",
+      "email": "mtn.gm05@gmail.com",
+      "telefono": "231-143-4214",
+      "empresa": "Medio Melón",
+      "puesto": "Full Stack",
+      "estado": true,
+      "id": 4
+    },
+    {
+      "nombre": "Jose",
+      "apellido": "Dominguez",
+      "email": "tata@gmail.com",
+      "telefono": "555-122-4344",
+      "empresa": "TATA CONSULTING SERVICE",
+      "puesto": "Java Developer",
+      "estado": false,
+      "id": 5
+    }
+  ]
+}
